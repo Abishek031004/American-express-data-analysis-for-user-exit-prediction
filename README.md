@@ -11,12 +11,12 @@ Credit Score
 Geography (categorical-3 values)
 Gender (Categorical - 2 values)
 Age
-Customer Since
-Current Amount
-No. of Products
+Customer
+Since Current Amount No. of Products
 UPI enabled
 Estimated yearly salary
 Closed
+
 Steps
 
 Data Preprocessing
