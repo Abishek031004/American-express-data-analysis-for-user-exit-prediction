@@ -37,15 +37,39 @@ Closed
 Steps
 
 1.Data Preprocessing
+
+
 2.Importing libraries
+
+
 3.Importing dataset
+
+
 4.Encoding categorical data for independent variable
+
+
 5.Splitting training and test data
+
+
 6.Feature scaling
+
+
 7.Analysis using ANN
+
+
 8.Define Model
+
+
 9.Compile
+
+
 10.Train
+
+
 11.Evaluate
+
+
 12.Prediction
+
+
 13.Verify using confusion matrix
